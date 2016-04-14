@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-*",
+  "version": "1.0.0-beta-000001",
   "description": "Helpers for building Angular 2 applications on ASP.NET 5.",
   "compilationOptions": {
     "keyFile": "../../tools/Key.snk"
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "Microsoft.AspNet.Mvc.TagHelpers": "6.0.0-rc1-final",
-    "Microsoft.AspNet.NodeServices": "1.0.0-alpha7",
-    "Microsoft.AspNet.SpaServices": "1.0.0-alpha7-1"
+    "Microsoft.AspNet.NodeServices": "1.0.0-beta-000001",
+    "Microsoft.AspNet.SpaServices": "1.0.0-beta-000001"
   }
 }
